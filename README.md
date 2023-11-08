@@ -20,7 +20,7 @@ A simple poll app built using React and Redux.
 
 ## How to Run the App Locally
 ```
-   git clone https://github.com/
+   git clone https://github.com/Dflexcee/Simple-poll-App
    cd quick-polls
    npm install
    npm start
@@ -37,7 +37,7 @@ password: 1234
 ## Authors:
 👤 COLLINS EZIH
 
-[Github  Link](https://github.com/MarvellousUbani)
+[Github  Link](https://github.com/Dflexcee/)
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
